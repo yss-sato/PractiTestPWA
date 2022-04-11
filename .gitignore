@@ -1,3 +1,9 @@
+# folder
+*/bin/
+*/obj/
+*/*/bin/
+*/*/obj/
+
 # Prerequisites
 *.d
 
